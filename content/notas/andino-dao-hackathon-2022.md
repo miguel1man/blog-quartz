@@ -13,7 +13,7 @@ Pero, ¿Cómo es posible que un grupo de desconocidos hayan construido una app y
 
 En los primeros 2 días del evento tuvimos muchas ideas, pero al comentarlas con los mentores, todos nos indicaban los puntos débiles de nuestro proyecto. No nos rendimos. Seguimos iterando. Seguimos soñando y lo conseguimos. Primer lugar. Hasta ahora no lo creo.
 
-Gracias a LATAM WEBX HACKATHON hice más networking en una semana que en todo año...
+## Gracias a LATAM WEBX HACKATHON hice más networking en una semana que en todo año...
 
 El primer día no conocía a nadie pero logré unirme a un grupo.
 
@@ -21,7 +21,7 @@ El segundo día conocí un equipo conformado por un contador, un emprendedor y u
 
 Así que no importa si eres programador, diseñador o emprendedor. Todos y todas pueden participar en un hackathon. Se los recomiendo. Es un evento que te puede cambiar la vida. Y si ya asististe a una, invita a tus amigos o colegas.
 
-¿Cuál fue nuestra idea ganadora para la hackathon de Andino DAO?
+## ¿Cuál fue nuestra idea ganadora para la hackathon de Andino DAO?
 
 Millones de peruanos ya utilizan "monedas imaginarias" para comprar productos reales. Se llaman puntos bonus o millas para viajes. Entonces ¿Cómo logramos que las empresas y sus clientes utilicen "tokens" como puntos de fidelidad?
 
