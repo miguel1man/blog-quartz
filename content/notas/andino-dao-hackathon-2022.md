@@ -7,7 +7,7 @@ tags:
 
 ![andino-dao-hackathon-2022](/notas/imagenes/andino-dao-hackathon-2022.jpg)
 
-Participar en una hackathon te cambia la vida y puedo probarlo. Porque 24 horas antes que comience el evento yo no conocía a Ela, Gustavo, Jorge y Livia... ¡Aún así ganamos el primer lugar en el reto de BNB y un premio de $1000!
+Participar en una hackathon te cambia la vida y puedo probarlo. Porque 24 horas antes que comience el evento yo no conocía a Ela, Gustavo, Jorge y Livia. ¡Aún así ganamos el primer lugar en el reto de BNB y un premio de $1000!
 
 Pero, ¿Cómo es posible que un grupo de desconocidos hayan construido una app y una amistad en tan poco tiempo? Yo culpo a la blockchain. Esta mágica tecnología atrae a las buenas personas. (Aunque también atrae especuladores)
 
