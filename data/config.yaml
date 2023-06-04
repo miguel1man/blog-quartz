@@ -1,5 +1,5 @@
-name: Jacky Zhao
-enableToc: true
+name: Miguel Angel Huamán
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -10,20 +10,19 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/miguel1man/blog
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
-page_title:
-  "🪴 Quartz 3.3"
+description: Blog Personal. Miguel Angel Huamán.
+page_title: "🔥 Blog MH"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/miguel1man
+  - link_name: LinkedIn
+    link: https://linkedin.com/in/miguel1man
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/miguel1man

@@ -1,5 +1,5 @@
-baseURL = "https://quartz.jzhao.xyz/"
-languageCode = "en-us"
+baseURL = "https://miguel1man.github.io/blog/"
+languageCode = "es"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
