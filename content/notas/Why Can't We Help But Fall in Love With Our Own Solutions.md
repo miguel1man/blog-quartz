@@ -52,3 +52,7 @@ When developing a product, it's important to understand the customer's problems 
 For example, this article. I want to write about a hundred blockchain related topics, but what is the main reason of writing if not just write about the process of our thinking. I want to enjoy the process to get a post that i enjoy to write.
 
 So, let's not fall in love with our solutions. Let's fall in love with the process of finding solutions. Let's enjoy the journey, and let's not forget the destination.
+
+---
+
+- [Link to the original publication on Substack](https://open.substack.com/pub/miguel1man/p/why-cant-we-help-but-fall-in-love?r=1r9qo6&utm_campaign=post&utm_medium=web)

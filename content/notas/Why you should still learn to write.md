@@ -37,3 +37,7 @@ I worked on my app for weeks, and finally, it was finished. I had created a Chat
 As I reflected on my achievement, I couldn't help but wonder: If a self-taught developer like me can build this app for free, what bigger apps are developing the big tech companies? That's when it hit me: we are still in the early stages of AI development. Even the app of a junior developer can shine with the help of artificial coders.
 
 AI is changing the way we write and code. It is making it easier, faster, and more creative. With AI, we can create anything we can imagine. Let's embrace this new technology and use it to create amazing things!
+
+---
+
+- [Link to the original publication on Substack](https://open.substack.com/pub/miguel1man/p/why-you-should-still-learn-to-write?r=1r9qo6&utm_campaign=post&utm_medium=web)

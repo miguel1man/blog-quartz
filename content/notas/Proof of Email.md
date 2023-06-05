@@ -31,3 +31,7 @@ The potential uses for this type of wallet are enormous. It opens up new opportu
 Proof of Email is a game-changer when it comes to introducing people to the world of blockchain. It simplifies the process, making it accessible to anyone with an email address. No more confusion, no more technical jargon—just a seamless way to connect your digital identity with the blockchain.
 
 Remember, sometimes the simplest solutions can lead to the most extraordinary experiences. So, why wait? Take the first step and try Proof of Email today. You can search for "SHA256 generator" on Google or ask an AI about it.
+
+---
+
+- [Link to the original publication on Substack](https://open.substack.com/pub/miguel1man/p/proof-of-email-the-easiest-way-to?r=1r9qo6&utm_campaign=post&utm_medium=web)
