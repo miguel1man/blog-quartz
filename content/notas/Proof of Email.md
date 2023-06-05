@@ -1,5 +1,6 @@
 ---
 title: "Proof of Email - The easiest way to onboard to blockchain"
+date: 2023-05-25
 tags:
   - blockchain
   - onboarding

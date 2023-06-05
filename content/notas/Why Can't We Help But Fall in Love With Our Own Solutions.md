@@ -1,5 +1,6 @@
 ---
 title: "Why Can't We Help But Fall in Love With Our Own Solutions?"
+date: 2023-05-31
 tags:
   - product
 ---

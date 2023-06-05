@@ -1,5 +1,6 @@
 ---
 title: "Andino DAO - Hackathon 2022"
+date: 2022-10-31
 tags:
   - hackathon
   - networking
