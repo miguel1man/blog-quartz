@@ -12,5 +12,6 @@ Publicaciones en español:
 
 - [[notas/Andino DAO Hackathon 2022|Andino DAO Hackathon]]
 - [[notas/Platzi Talks Lima 2022]]
+- [[notas/Quartz]]
 
 Todas las [Etiquetas](/tags)
