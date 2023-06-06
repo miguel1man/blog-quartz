@@ -2,8 +2,8 @@
 title: "Why you should still learn to write (even if an AI can do it better)"
 date: 2023-05-17
 tags:
-  - writing
-  - ai
+  - escritura
+  - inteligencia-artificial
 ---
 
 ![Robot escribiendo](/notas/imagenes/why-you-should-still-learn-to-write.jpeg)

@@ -1,11 +1,11 @@
 ---
-title: "Platzi Talks Lima 2022"
+title: "PlatziTalks - Lima 2022"
 date: 2022-11-14
 tags:
   - networking
 ---
 
-![Platzi Talks Lima 2022](/notas/imagenes/platzi-talks-lima-2022-11-09.jpg)
+![PlatziTalks Lima 2022](/notas/imagenes/platzitalks-lima-2022-11-09.jpg)
 
 Yo no sabía hacer networking, porque no hablé con nadie en los 2 primeros eventos tech a los que asistí presencialmente.
 
@@ -13,7 +13,7 @@ Escuchaba a los expositores... recibía el merch de las marcas... y me retiraba 
 
 ## PlatziTalks en Lima fue un evento distinto
 
-Una amiga me dijo que se había registrado, entonces pensé "Al menos conoceré una persona en el auditorio"... Pero ella nunca llegó. Así que me vi obligado a socializar con desconocidos.
+Una amiga me dijo que se había registrado en PlatziTalks, entonces pensé "Al menos conoceré una persona en el auditorio"... Pero ella nunca llegó. Así que me vi obligado a socializar con desconocidos.
 
 Mi plan era simple. Comenzaba con un "Hola soy Miguel Angel, desarrollador frontend". Esperando que la otra persona se presentara y continuara la conversación... ¡Funcionó!
 
