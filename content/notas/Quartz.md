@@ -8,11 +8,11 @@ tags:
 ## Enlaces Markdown
 
 ```markdown
-// Texto a mostrar igual al nombre del archivo
+// Texto visible igual al nombre del archivo
 [[nombre-del-archivo]]
 
 // Texto personalizado
-[[nombre-del-archivo|Texto a mostrar]]
+[[nombre-del-archivo|Texto personalizado]]
 
 // Imagen
 ![texto-alternativo](/notas/imagenes/foto1.jpg)

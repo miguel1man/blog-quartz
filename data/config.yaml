@@ -17,7 +17,7 @@ search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description: Blog Personal. Miguel Angel Huamán.
+description: Blog Personal de Miguel Angel Huamán.
 page_title: "🔥 Blog MH"
 links:
   - link_name: Twitter
@@ -26,3 +26,5 @@ links:
     link: https://linkedin.com/in/miguel1man
   - link_name: GitHub
     link: https://github.com/miguel1man
+favicon:
+  - { rel: "shortcut icon", href: "fire.svg", type: "image/png" }

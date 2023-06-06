@@ -1,5 +1,5 @@
 ---
-title: 🔥 Blog MH
+title: Blog MH
 ---
 
 Publicaciones en inglés:
