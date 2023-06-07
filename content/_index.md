@@ -10,6 +10,7 @@ Publicaciones en inglés:
 
 Publicaciones en español:
 
+- [[notas/Por qué todavía deberías aprender a escribir|Por qué todavía deberías aprender a escribir (aunque una IA pueda hacerlo mejor)]]
 - [[notas/Andino DAO Hackathon 2022|Andino DAO Hackathon]]
 - [[notas/PlatziTalks Lima 2022]]
 - [[notas/Quartz]]

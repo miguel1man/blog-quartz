@@ -2,7 +2,8 @@
 title: "Why Can't We Help But Fall in Love With Our Own Solutions?"
 date: 2023-05-31
 tags:
-  - product
+  - producto
+  - product-design
 ---
 
 As developers, we often fall in love with our own solutions. We spend so much time and energy thinking about and building our solutions, that it's easy to forget that the solution is not the end goal. The end goal is to solve a problem for someone.

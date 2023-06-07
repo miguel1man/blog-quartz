@@ -40,4 +40,5 @@ AI is changing the way we write and code. It is making it easier, faster, and mo
 
 ---
 
+- [[Por qué todavía deberías aprender a escribir|Spanish version of this article]]
 - [Link to the original publication on Substack](https://open.substack.com/pub/miguel1man/p/why-you-should-still-learn-to-write?r=1r9qo6&utm_campaign=post&utm_medium=web)
