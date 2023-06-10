@@ -54,6 +54,8 @@ For example, this article. I want to write about a hundred blockchain related to
 
 So, let's not fall in love with our solutions. Let's fall in love with the process of finding solutions. Let's enjoy the journey, and let's not forget the destination.
 
+[[Por qué nos enamoramos de nuestras soluciones]]
+
 ---
 
 - [Link to the original publication on Substack](https://open.substack.com/pub/miguel1man/p/why-cant-we-help-but-fall-in-love?r=1r9qo6&utm_campaign=post&utm_medium=web)

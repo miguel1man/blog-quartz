@@ -1,7 +1,7 @@
 name: Miguel Angel Huamán
 enableToc: false
 openToc: false
-enableLinkPreview: false
+enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
