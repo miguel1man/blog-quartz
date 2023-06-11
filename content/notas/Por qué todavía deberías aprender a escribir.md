@@ -28,6 +28,8 @@ Si bien las máquinas son mejores en varios aspectos, no llegarán a reemplazar 
 
 Pero aunque las máquinas logren escribir con un estilo superior a todos los premios Nobel del mundo, aún así, yo seguiré escribiendo. Porque la escritura podrá ser artificial, pero la satisfacción siempre será personal. Nada puede superar la emoción de convertir tus ideas en palabras. Nada. Es por eso que todavía deberías aprender a escribir, aunque una IA pueda hacerlo mejor.
 
+[[Por qué todavía deberías aprender a escribir - versión para LinkedIn]]
+
 ---
 
 - [[Why you should still learn to write| Versión en inglés de este mismo artículo]]

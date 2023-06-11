@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Por qué todavía deberías aprender a escribir (aunque una IA pueda hacerlo mejor)"
 date: 2023-05-31
 tags:
@@ -7,11 +6,11 @@ tags:
   - inteligencia-artificial
 ---
 
-¿Por qué esforzarme en escribir mejor? Si una IA puede crear textos más creativos que los míos. 
+¿Por qué deberías esforzarte en escribir mejor? Si es que una IA puede crear textos más creativos de los que tú puedes hacer. 🤔🤖
 
 ¿Qué sentido tiene jugar al ajedrez a nivel profesional si una computadora siempre te ganará en una partida?
 
-JUGADORES ARTIFICIALES
+JUGADORES ARTIFICIALES ♟️
 
 Cuando Deep Blue venció a Garri Kaspárov en 1997, muchos predijeron que las personas dejarían de jugar ajedrez, ya que no tendría sentido competir contra una máquina que siempre te ganará. Sin embargo, ha ocurrido lo contrario, hoy hay más jugadores de ajedrez que nunca antes.
 
@@ -21,7 +20,7 @@ Las máquinas nunca podrán replicar la satisfacción de superar a un oponente o
 
 Por eso la humanidad nunca dejará de jugar ajedrez, aunque los jugadores artificiales siempre terminen ganando.
 
-ESCRITORES ARTIFICIALES
+ESCRITORES ARTIFICIALES ✍️
 
 Y esta misma historia se está repitiendo con la escritura. Porque hoy las inteligencias artificiales generativas pueden superar a los humanos al momento de generar texto gramaticalmente correcto y "factualmente preciso". Es por eso que ahora mismo estoy utilizando a una #IA que me ayuda a escribir este artículo.
 

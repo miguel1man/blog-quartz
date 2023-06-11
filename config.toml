@@ -1,5 +1,5 @@
 baseURL = "https://miguel1man.github.io/blog-quartz/"
-languageCode = "es"
+languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [

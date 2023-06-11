@@ -10,6 +10,7 @@ title: MH
 ### ¿Por qué es mejor diseñar antes de programar?
 
 - [[notas/Why Can't We Help But Fall in Love With Our Own Solutions]]
+- [[notas/Por qué nos enamoramos de nuestras soluciones]]
 
 ### ¿Qué es networking efectivo?
 
