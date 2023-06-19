@@ -2,8 +2,8 @@
 title: "¿Por qué nos enamoramos de nuestras propias soluciones?"
 date: 2023-05-31
 tags:
-  - producto
-  - product-design
+  - Producto
+  - Product-Design
 ---
 
 Como desarrolladores, solemos enamorarnos de nuestras propias soluciones. Nos toma mucho tiempo y energía pensar y construir una solución, y es fácil olvidar que la solución no es el objetivo final. Sino que la finalidad es resolver un problema real a una persona real.

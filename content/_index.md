@@ -17,6 +17,11 @@ title: MH
 - [[notas/Andino DAO Hackathon 2022|Andino DAO Hackathon]]
 - [[notas/PlatziTalks Lima 2022]]
 
+### Filosofía de la inteligencia artificial
+
+- [[notas/Las máquinas calculan pero no piensan]]
+- [[notas/El giro dataísta]]
+
 ---
 
 Explorar todas las [etiquetas](/tags) del blog.

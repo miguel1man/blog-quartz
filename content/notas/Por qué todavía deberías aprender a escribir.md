@@ -2,8 +2,8 @@
 title: "Por qué todavía deberías aprender a escribir (aunque una IA pueda hacerlo mejor)"
 date: 2023-05-31
 tags:
-  - escritura
-  - inteligencia-artificial
+  - Escritura
+  - Inteligencia-Artificial
 ---
 
 Yo aprendí lo que era "inteligencia artificial" en los noventa, cuando fue noticia que el campeón mundial de ajedrez había perdido una partida contra una máquina. Después de esa derrota, muchos predijeron que las personas dejarían de jugar ajedrez, ya que no tendría sentido competir contra una máquina que siempre te ganará. Sin embargo, ha ocurrido lo contrario, el ajedrez es más popular hoy en día que nunca antes.

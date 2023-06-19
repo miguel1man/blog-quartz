@@ -2,8 +2,8 @@
 title: "Proof of Email - The easiest way to onboard to blockchain"
 date: 2023-05-25
 tags:
-  - blockchain
-  - onboarding
+  - Blockchain
+  - Onboarding
 ---
 
 Have you ever wondered what it would be like to have your own blockchain address without the hassle of complicated phrases and secret words? Imagine having a wallet that is uniquely linked to your email, allowing you to interact with the world of blockchain effortlessly. That's the concept behind "Proof of Email."

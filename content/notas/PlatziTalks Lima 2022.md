@@ -2,7 +2,7 @@
 title: "PlatziTalks - Lima 2022"
 date: 2022-11-14
 tags:
-  - networking
+  - Networking
 ---
 
 ![PlatziTalks Lima 2022](/notas/imagenes/platzitalks-lima-2022-11-09.jpg)
